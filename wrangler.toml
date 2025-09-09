@@ -1,4 +1,9 @@
-name = "v20250907"
+name = "korewa-ovo"
 main = "_worker.js"
 compatibility_date = "2025-09-07"
+
 keep_vars = true
+
+[[kv_namespaces]]
+binding = "KV"
+id = "f34fe62e343c40139414a5e1c5f2bcaf"
